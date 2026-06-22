@@ -143,11 +143,11 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Celebrate your contribution and share it with your friends and followers.
 
-If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
+If you'd like more practice, checkout [code contributions](https://github.com/stovecooks/code-contributions).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+<!-- Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [](). -->
 
 ### [Additional material](docs/git_workflow_scenarios/additional-material.md)
 
